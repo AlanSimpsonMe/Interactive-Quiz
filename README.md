@@ -1,14 +1,10 @@
-# This is a level 1 heading
+# Quiz	
 
-```
-<h1>Hello World</h1>
-<p>Roses are red<br>
-Violets a blue</p>
+Here is some relatively simple code for interactive quizzes. HTML5, CSS3, and a little jQuery. User gets immediate feedback on each answer. To keep it simple, answers aren't saved.
 
-```
-This line has some `alert("Howdy")` inline code.
+If you'd like to learn more about Markdown documents like this one, take a look here: 
 
-:blush:
+<http://bit.ly/EasyMarkdown>
 
-:smirk:
+
 
