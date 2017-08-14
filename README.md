@@ -6,5 +6,5 @@ If you'd like to learn more about Markdown documents like this one, take a look 
 
 <http://bit.ly/EasyMarkdown>
 
-
+[![YouTube Video](http://img.youtube.com/vi/H3ZiKX6NvcA/0.jpg)](http://www.youtube.com/watch?v=H3ZiKX6NvcA "Watch YouTube Video")
 
